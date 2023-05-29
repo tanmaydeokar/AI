@@ -22,7 +22,7 @@ public class SelectionSortGreedy {
             System.out.print(arr[i]+" ");
         }
         System.out.println();
-        selectionSort(arr);
+        SelectionSortGreedy(arr);
         System.out.print("Sorted Array is: ");
          for(int i=0;i<5;i++){
             System.out.print(arr[i]+" ");
